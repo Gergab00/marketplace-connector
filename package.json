@@ -1,0 +1,27 @@
+{
+  "name": "marketplace-connector",
+  "version": "1.0.0",
+  "description": "This project is a web application created with Node.js and Express.js that connects to the Amazon, Mercadolibre, Claroshop and Woocommerce APIs, using puppeteer and inquirer. It allows users to search and compare products in different online stores.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gergab00/marketplace-connector.git"
+  },
+  "keywords": [
+    "marketplace",
+    "amazon",
+    "mercadolibre",
+    "claroshop",
+    "puppeteer",
+    "api"
+  ],
+  "author": "Gerardo Gonzalez",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Gergab00/marketplace-connector/issues"
+  },
+  "homepage": "https://github.com/Gergab00/marketplace-connector#readme"
+}
